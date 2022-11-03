@@ -9,7 +9,7 @@ Bài tập:
   2. Viết chương trình tính tổng của các chữ số của môt số nguyên n trong java. Số nguyên dương n được nhập từ bàn phím. Với n = 1234, tổng các chữ số: 1 + 2 + 3 + 4 = 10
   
 
-<b>Tiểu luận: Thực hiện dự án (25 trang)</b>
+Tiểu luận: Thực hiện dự án (25 trang)
 
 Giới thiệu ngữ cảnh ( mục đích, lý do,….) ~ 1 trang
 Các công nghệ, công cụ sử dung trong dự án (Java, Mysql, Github, …) ~ 6 trang
